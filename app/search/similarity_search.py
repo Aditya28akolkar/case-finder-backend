@@ -2,7 +2,7 @@ from sqlalchemy.orm import Session
 
 from app.models.case_model import Case
 
-from app.embeddings.embedding_service import generate_embedding
+
 from app.vector.chroma_db import search_similar_cases
 
 from app.websearch.web_search_service import search_cases_from_web

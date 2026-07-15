@@ -1,16 +1,13 @@
 from sentence_transformers import SentenceTransformer
 
-# Load the model only once when the application starts
+# Load once when application starts
 model = SentenceTransformer("BAAI/bge-base-en-v1.5")
 
 
-def generate_embedding(text: str) -> list[float]:
+def generate_embedding(text: str):
     """
-    Generate embedding for the given text.
+    Generate embedding for a single text chunk.
     """
-    embedding = model.encode(
-        text,
-        normalize_embeddings=True
-    )
+    embedding = model.encode(text, normalize_embeddings=True)
 
     return embedding.tolist()
