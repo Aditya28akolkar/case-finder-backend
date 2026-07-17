@@ -1,5 +1,4 @@
 from fastapi import APIRouter, Depends
-
 from sqlalchemy.orm import Session
 
 from app.db.session import get_db
@@ -9,7 +8,7 @@ from app.schemas.case_schema import (
     ChatResponse
 )
 
-from app.chat.chat_service import chat_with_case
+from app.services.rag_service import ask_question
 
 router = APIRouter(
     prefix="/chat",
@@ -23,10 +22,14 @@ def chat(
     db: Session = Depends(get_db)
 ):
 
-    answer = chat_with_case(
-        db,
-        request.case_id,
-        request.question
+    result = ask_question(
+        db=db,
+        session_id=request.session_id,
+        question=request.question
     )
 
-    return ChatResponse(answer=answer)
+    return ChatResponse(
+        session_id=result["session_id"],
+        answer=result["answer"],
+        sources=result["sources"]
+    )

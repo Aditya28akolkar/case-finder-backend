@@ -46,9 +46,11 @@ class CaseSearchRequest(BaseModel):
 
 
 class ChatRequest(BaseModel):
-    case_id: int
+    session_id: str
     question: str
 
 
 class ChatResponse(BaseModel):
+    session_id: str
     answer: str
+    sources: list

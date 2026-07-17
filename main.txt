@@ -3,10 +3,9 @@ from fastapi import FastAPI
 from app.db.database import Base, engine
 from app.models.case_model import Case
 from app.api.case_routes import router as case_router
-from app.models.conversation_model import Conversation
-from app.api.chat_routes import router as chat_router
-from app.models.search_session_model import SearchSession
-from app.api.search_routes import router as search_router
+
+
+
 # Create database tables
 Base.metadata.create_all(bind=engine)
 
@@ -18,7 +17,6 @@ app = FastAPI(
 
 # Register routes
 app.include_router(case_router)
-
 
 
 @app.get("/")
