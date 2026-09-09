@@ -15,5 +15,5 @@ rank_bm25==0.2.2
 reportlab==5.0.0
 Requests==2.34.2
 sentence-transformers==5.7.0
-SQLAlchemy==2.0.27
+SQLAlchemy==2.0.52
 starlette==1.6.0
