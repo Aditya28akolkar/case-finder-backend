@@ -14,7 +14,6 @@ python-docx==1.2.0
 rank_bm25==0.2.2
 reportlab==5.0.0
 Requests==2.34.2
-sentence_transformers==5.7.0
-sentence_transformers==5.6.0
+sentence-transformers==5.7.0
 SQLAlchemy==2.0.27
 starlette==1.6.0
