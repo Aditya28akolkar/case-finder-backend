@@ -1,4 +1,4 @@
-from sentence_transformers import CrossEncoder
+
 
 from sqlalchemy.orm import Session
 
@@ -6,19 +6,6 @@ from app.models.knowledge_document_model import KnowledgeDocument
 from app.embeddings.embedding_service import generate_embedding
 
 
-# ============================================================
-# MODELS
-# ============================================================
-
-RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-
-
-print("Loading reranker...")
-
-reranker = CrossEncoder(
-    RERANKER_MODEL,
-    device="cpu"
-)
 
 # ============================================================
 # SEARCH KNOWLEDGE
@@ -142,50 +129,17 @@ def search_knowledge(
     # 5. CROSS ENCODER RERANKING
     # ========================================================
 
-    print("\n========== RERANKING ==========")
-
-    pairs = [
-
-        [
-            question,
-            candidate["content"]
-        ]
-
-        for candidate in results
-    ]
-
-
-    rerank_scores = reranker.predict(
-        pairs,
-        show_progress_bar=False
-    )
-
-
-    for candidate, score in zip(
-        results,
-        rerank_scores
-    ):
-
-        candidate["rerank_score"] = float(score)
 
 
     # ========================================================
     # 6. SORT BY RERANK SCORE
     # ========================================================
 
-    results.sort(
-        key=lambda x: x["rerank_score"],
-        reverse=True
-    )
 
     # ========================================================
     # 7. SORT RESULTS
     # ========================================================
 
-    results.sort(
-        key=lambda x: x["rerank_score"],
-        reverse=True
-    )
 
     # ========================================================
     # 8. REMOVE DUPLICATES
@@ -259,10 +213,7 @@ def search_knowledge(
             result["page_number"]
         )
 
-        print(
-            "RERANK SCORE:",
-            result["rerank_score"]
-        )
+        
 
         
 
