@@ -77,4 +77,18 @@ def bm25_search(query: str, top_k: int = 10):
         reverse=True
     )
 
+    debug_chunks(
+        "BM25 RETRIEVAL",
+        bm25_results
+    )
+
+    debug_find_chunk(
+        bm25_results,
+        target_id=10596,
+        stage="BM25 RETRIEVAL"
+    )
+
+
+
+
     return results[:top_k]

@@ -1,0 +1,175 @@
+
+SOURCE 1
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 21
+
+CONTENT:
+PROSPECTUS AND ALLOTMENT OF SECURITIES 3.21 Information Memorandum together with Shelf Prospectus is deemed Prospectus [Sub-section 3] Where an information memorandum is filed, every time an offer of securities is made under sub-section (2), such memorandum together with the shelf prospectus shall be deemed to be a prospectus. Illustration (MCQ) An applicant who made application for allotment along with advance payment of subscription, if he expresses a desire to withdraw his application after changes reported in information memorandum came to his knowledge. The company; Options a. May refund the monies at discretion of Board of Directors b. Shall refund the monies after deducting the administrative charges within fifteen days c. Shall refund all the monies received as subscription within fifteen days d. Shall refund the monies after deducting the administrative charges within 30 days Answer – c [Refer proviso to section 31(2). It is provided that where a company or any other person has received applications for the allotment of securities along with advance payments of subscription before the making of any such change, the company or other person shall intimate the changes to such applicants and if they express a desire to withdraw their application, the company or other person shall refund all the monies received as subscription within fifteen days thereof]. RED HERRING PROSPECTUS [SECTION 32] Meaning of Red Herring Prospectus (explanation to section 32) The expression "red herring" means a prospectus which does not include complete particulars of the quantum or price of the securities. Need of Red Herring Prospectus Developments taking place in the financial markets from time to time allow innovative methods of raising funds so as to avail the most of favourable market conditions. Timing the issue and book building of issue are facilitated by the
+
+END SOURCE 1
+====================
+
+
+SOURCE 2
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 8
+
+CONTENT:
+CORPORATE AND OTHER LAWS 3.8 4. PROSPECTUS Meaning As per the definition given in section 2 (70) of the Act, Prospectus means any document described or issued as a prospectus, and includes a red herring prospectus referred to in section 32, or shelf prospectus referred to in section 31, or any notice, circular, advertisement or other document inviting offers from the public for the subscription or purchase of any securities of a body corporate. The definition of prospectus has two limbs (means part and includes part) with four elements in totality, these four constituents can be appreciated though diagram presented below: Out of four constituents of prospectus definition, first three are quite clear; but the fourth one i.e. document inviting offer from the public (considered as deemed prospectus or prospectus by implication) need to be decoded further that too in context to section 25 and landmark judicial pronouncements (elaborated later). Other elements are also explained/elaborated at relevant place in this chapter. DEEMED PROSPECTUS [SECTION 25] - THE DOCUMENTS CONTAINING OFFER OF SECURITIES FOR SALE Deemed Prospectus Sub-section 1 provides, where a company allots or agrees to allot any of its securities with a view that those securities (all or any part thereof) being offered for sale to the public, any document by which the offer is made; shall deemed to be a prospectus (issued by the company) for all purposes. Prospectus means Any document described or issued as a prospectus includes Shelf prospectus (section 31) Red herring prospectus (section 32) Any notice, circular, advertisement or other document inviting offers from the public
+
+END SOURCE 2
+====================
+
+
+SOURCE 3
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 22
+
+CONTENT:
+CORPORATE AND OTHER LAWS 3.22 concept of red herring prospectus whereby the price per security and number of securities are left open to be decided post closure of the issue. Timing of issue the Red Herring Prospectus [Sub-section 1] A company proposing to make an offer of securities may issue a red herring prospectus prior to the issue of a prospectus. Filing of Red Herring Prospectus with the registrar [Sub-section 2] A company proposing to issue a red herring prospectus shall file it with the Registrar at least three days prior to the opening of the subscription list and the offer. Obligations under Red Herring Prospectus vis-à-vis Prospectus [Sub-section 3] A red herring prospectus shall carry the same obligations as are applicable to a prospectus and any variation between the red herring prospectus and a prospectus shall be highlighted as variations in the prospectus. Filing with Registrar and SEBI upon closing of Offer [Sub-section 4] Upon the closing of the offer of securities under this section, the prospectus stating therein the total capital raised, whether by way of debt or share capital, and the closing price of the securities and any other details as are not included in the red herring prospectus shall be filed with the Registrar and the Securities and Exchange Board. Book Building is actually a price discovery method. In this method, the company doesn't fix up a particular price for the shares, but instead gives a price range. An underwriter builds a book by accepting orders from fund managers, indicating the number of shares they desire and the price they are willing to pay. CONCEPT OF ABRIDGED PROSPECTUS - ISSUE OF APPLICATION FORMS FOR SECURITIES [SECTION 33] Meaning of Abridged Prospectus [Section 2(1)] Abridged Prospectus means a memorandum containing such salient features of a prospectus as may be specified by the Securities and Exchange Board by making regulations in this behalf.
+
+END SOURCE 3
+====================
+
+
+SOURCE 4
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 57
+
+CONTENT:
+PROSPECTUS AND ALLOTMENT OF SECURITIES 3.57 4. The minimum subscription as specified in the prospectus has not been received in terms of section 39; or 5. The minimum amount receivable on application is less than 25% of the nominal value of the securities offered or lower than the amount prescribed by SEBI in this behalf; or 6. In case of a public issue, approval for listing has not been obtained from one or more of the recognized stock exchanges under section 40 of the Companies Act, 2013. 2. As per explanation to section 31, the expression “shelf prospectus” means a prospectus in respect of which the securities or class of securities included therein are issued for subscription in one or more issues over a certain period without the issue of a further prospectus. A company is required to issue a prospectus each time it accesses the capital market. It leads to unnecessary repetition for a company which makes more than one offer of securities in a year to mobile funds from the public. A way out is shelf prospectus which remains valid (on the shelf) a specified time period during which offers for securities may be made by a company to the public without going through the arduous exercise of issuing fresh prospectus every time. 1. Filing of shelf prospectus with the Registrar Shelf prospectus may be filled with the Registrar at the stage of first offer of securities, by class or classes of companies as the Securities and Exchange Board may provide by regulations in this behalf. It has to indicate a period not exceeding one year as the period of validity of such shelf prospectus. The period of validity is to commence from the date of opening of the first offer of securities under such prospectus. In respect of any second or subsequent offer of such securities issued during the period of validity of such prospectus, no further prospectus is required.
+
+END SOURCE 4
+====================
+
+
+SOURCE 5
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 20
+
+CONTENT:
+CORPORATE AND OTHER LAWS 3.20 Filing of shelf prospectus with the Registrar [Sub-section 1] Shelf prospectus may be filled with the Registrar at the stage of first offer of securities, by class or classes of companies as the Securities and Exchange Board of India may provide by regulations in this behalf. It has to indicate a period not exceeding one year as the period of validity of such shelf prospectus. The period of validity is to commence from the date of opening of the first offer of securities under such prospectus. In respect of any second or subsequent offer of such securities issued during the period of validity of such prospectus, no further prospectus is required. Filing of ‘Information Memorandum’ with the Shelf Prospectus [Sub-section 2] A company filing a shelf prospectus shall be required to file an information memorandum with the Registrar within the prescribed time, prior to the issue of a second or subsequent offer of securities under the shelf prospectus containing; a. All material facts relating to new charges created, b. Changes in the financial position of the company as have occurred between the first offer of securities or the previous offer of securities and the succeeding offer of securities, and c. Such other changes as may be prescribed, Proviso to Sub-section 2, provides a safeguard (in case of changes) to applicants who made payment in advance. It is provided that where a company or any other person has received applications for the allotment of securities along with advance payments of subscription before the making of any such change, the company or other person shall intimate the changes to such applicants and if they express a desire to withdraw their application, the company or other person shall refund all the monies received as subscription within fifteen days thereof. Procedural Aspects Rule 10 of the Companies (Prospectus and Allotment of Securities) Rules, 2014 The information memorandum shall be prepared in Form PAS-2. It shall be filed with the Registrar along with the fee as provided in the Companies (Registration Offices and Fees) Rules, 2014 within one month prior to the issue of a second or subsequent offer of securities under the shelf prospectus.
+
+END SOURCE 5
+====================
+
+
+SOURCE 6
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 19
+
+CONTENT:
+PROSPECTUS AND ALLOTMENT OF SECURITIES 3.19 b. Issue its securities in physical form in accordance with the provisions of this Act; c. Issue its securities in dematerialised form in accordance with the provisions of the Depositories Act, 1996 and the regulations made thereunder. Rule 9 (Dematerialisation of securities) and 9A (Issue of securities in dematerialised form by unlisted public companies; of Companies (Prospectus and Allotment of Securities) Rules, 2014 is relevant for procedural aspects pertaining to Public Offer of Securities to be in Dematerialised Form. ADVERTISEMENT OF PROSPECTUS [SECTION 30] Where an advertisement of any prospectus of a company is published in any manner, it shall be necessary to specify therein the contents of its memorandum as regards the following: a. Objects, b. Liability of members and the amount of share capital of the company, c. Names of the signatories to the memorandum, d. Number of shares subscribed for by the signatories, and e. Capital structure of the company. SHELF PROSPECTUS [SECTION 31] Meaning of Shelf Prospectus [explanation to section 31] The expression “shelf prospectus” means a prospectus in respect of which the securities or class of securities included therein are issued for subscription in one or more issues over a certain period without the issue of a further prospectus. Need of Shelf Prospectus A company is required to issue a prospectus each time it accesses the capital market. It leads to unnecessary repetition for a company which makes more than one offer of securities in a year to mobile funds from the public. A way out is shelf prospectus which remains valid (on the shelf) for a specified time period during which offers for securities may be made by a company to the public without going through the arduous exercise of issuing fresh prospectus every time.
+
+END SOURCE 6
+====================
+
+
+SOURCE 7
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 23
+
+CONTENT:
+PROSPECTUS AND ALLOTMENT OF SECURITIES 3.23 Need of Abridged Prospectus In fact, ‘Abridged Prospectus’ is a summarized form of actual prospectus, containing the salient features of a prospectus to cut the cost involved in the publication of large number of prospectus which has to accompany the application forms for shares or debentures in case of public offer. Abridged Prospectus accompany the application form [Sub-section 1] Section 33(1) provides that every application form for shares or debentures has to be accompanied with the abridged prospectus. Proviso to sub-section 1 provides exceptions, when the requirement of abridged prospectus does not apply; a. When application form is issued in connection with a bona fide invitation to a person to enter into an underwriting agreement with respect to shares or debentures: b. In relation to shares or debentures which were not offered to the public; or c. Where offer is made only to existing members of the company Right to receive prospectus [Sub-section 2] Sub-section 2 provides that a prospectus (full prospectus) is to be made available to any person who request for it before the closing of the subscription list and the offer. Penalty [Sub-section 3] A company who makes any default in complying with the provisions of section 33, shall be liable to a penalty of fifty thousand rupees for each default. 5. MIS-STATEMENTS IN PROSPECTUS A contract of shares in a company is a contract of Uberrimae fides (Latin), which means ‘utmost good faith’. The legal doctrine of Uberrimae fides provides that all parties to contract must deal in good faith, making a full declaration of all material facts. The intending purchasers of shares are entitled to true and correct disclosures of all the facts in the prospectus.
+
+END SOURCE 7
+====================
+
+
+SOURCE 8
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 6
+
+CONTENT:
+CORPORATE AND OTHER LAWS 3.6 markets only through depository receipts (e.g. American Depository Receipts (ADRs) or Global Depository Receipts (GDRs) or by listing their debt securities (such as, foreign currency convertible bonds, masala bonds, etc.) on foreign markets. Since more and more businesses are going global & capital raised from across the border is cost effective, hence section 23(3) was inserted to open ways of overseas direct listing for notified class of public companies by allowing them to issue notified securities for the purpose of listing on permitted stock exchanges in permissible foreign jurisdictions or such other jurisdictions as may be prescribed. Note: How overseas direct listing is different from ADRs/GRDs? In a direct listing, a domestic company can enlist itself with the stock exchanges of other countries without an intermediary. Unlike American Depositary Receipts (ADRs) and Global Depositary Receipts (GDRs), the Indian company can directly offer their shares in foreign markets instead of giving them to a foreign depository bank. Direct listing excludes intermediaries, decreases the overall transaction cost, and increases transparency. Section 23(4) of the Act empowers the Central Government to exempt any class or classes of public companies from complying with the provisions of Chapter III (Prospectus and Allotment of Securities), Chapter IV (Share Capital and Debentures), section 89 (Declaration in respect of a beneficial interest in any share), section 90 (Register of significant beneficial owners in a company) or section 127 (Punishment for failure to distribute dividends) of the Act, by issuing notification. Extract of section 23(3) and 23(4) “(3) Such class of public companies may issue such class of securities for the purposes of listing on permitted stock exchanges in permissible foreign jurisdictions or such other jurisdictions, as may be prescribed. (4) The Central Government may, by notification, exempt any class or classes of public companies referred to in sub-section (3) from any of the provisions of this Chapter, Chapter IV, section 89, section 90 or section 127 and a copy of every such notification shall, as soon as may be after it is issued, be laid before both Houses of Parliament.” Illustration (MCQ) Which of following shall be considered as securities for purpose of section 23 of the Act; (i) Unit linked insurance policy
+
+END SOURCE 8
+====================
+
+
+SOURCE 9
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 7
+
+CONTENT:
+PROSPECTUS AND ALLOTMENT OF SECURITIES 3.7 (ii) Actionable claim regarding mortgaged debt (iii) Securities issued by National Asset Reconstruction Ltd. Options (a) (iii) only (b) Both (i) and (iii) only (c) Both (ii) and (iii) only (d) None of the (i), (ii), and (iii) Answer – (c) (Refer section 2(h) of the Securities Contracts (Regulation) Act, 1956) 3. REGULATION OF ISSUE AND TRANSFER OF SECURITIES ETC. [SECTION 24] Securities and Exchange Board of India is empower to administer those provisions under chapter III and IV of the Act, which pertains to issue & transfer of securities and non-payment of dividend; by listed companies or those companies which intend to get their securities listed on any recognised stock exchange in India, by making regulations in this behalf. Additional Reading Being capital market regulator, the power is conferred upon Securities and Exchange Board of India under section 11, 11A, 11B and 11D of the Securities and Exchange Board of India Act 1992. All other matters (including matters relating to prospectus, return of allotment, redemption of preference shares) specifically provided in this Act, shall be administered by the Central Government, Tribunal or the Registrar, as the case may be. Illustration (True/False) Statement – The powers to administer the matters pertaining to redemption of preference share by listed company vested with the Securities and Exchange Board of India. Answer – False (Refer Section 24(1)(a)
+
+END SOURCE 9
+====================
+
+
+SOURCE 10
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 9
+
+CONTENT:
+PROSPECTUS AND ALLOTMENT OF SECURITIES 3.9 All the enactments and rules of law containing provisions pertaining to prospectus, matters to be stated, liability for misstatement shall apply to such deemed prospectus; subject to section 25(3) and 25(4). The purpose of deeming provision is to protect gullible investors from various fraudulent practices. Presumption of view (intent to offer securities for sale to public) under sub- section 1 As per sub-section 2, the allotment is presumed to have been made with a view of offering them to the public where either of following conditions fulfilled: a. Securities are offered to the public within six months of allotment, or b. Where the full consideration has not been received by the company at the date of offer to the public. It means, in case if any of above two conditions met; then issuing document shall deemed to be Prospectus under sub-section 1. Sub-section 1 and 2 to section 25 are not exhaustive in nature, there may be certain other situations when issuing document may construe as deemed prospectus. SEBI v Kunnamkulam Paper Mills Ltd9 Where a rights issue is made to existing members with a right to renounce in favour of others, if the number of such others exceeds fifty, it also becomes a deemed prospectus. Requirements in case of Deemed Prospectus Matters to be stated additionally As per Sub-section 3, following matters need to be stated (in the deemed prospectus i.e. the document through which offer of securities to public is made under sub-section 1) in addition to those required under section 26; a. A statement of the net amount received or to be received as consideration for the securities to which the offer relates. b. The time and place at which the underlying contract for allotment may be inspected. 9 (2013)178 Comp Cas 371 (Ker)
+
+END SOURCE 10
+====================
+
+
+SOURCE 11
+====================
+
+SOURCE INFORMATION:
+Subject: Corporate and Other Laws
+Module: Module_1
+Chapter: 03_Prospectus_and_Allotment_of_Securities
+Page: 10
+
+CONTENT:
+CORPORATE AND OTHER LAWS 3.10 c. The persons making the offer were named in the prospectus as directors of the company. Signing of deemed prospectus (on behalf of company) Further, as per Sub-section 4, it is sufficient, if the document (deemed prospectus i.e. through which offer of securities to public is made under sub-section 1) on behalf of the company is signed by its two directors. Illustration (True/False) Statement – The matters specified under section 25(3) need to be stated in substitution of matters stated under section 26. Answer – False [Section 25(3) provides three matters that need to be stated in addition to matters required to be stated in prospectus under section 26.] Additional Reading – For better understanding only Since the provisions of the Act relating to prospectus and the penal provisions are attracted only when the prospectus (including deemed prospectus) has been issued. "Issued" means issued to the public. Hence In context of ‘Invitation to Public’ ‘Inviting offer from the Public’ or ‘Offer of securities for sale to Public’ two valid questions arise here: 1. What constitute as ‘Public’? Does only ‘Public at large’ constitute as Public? The term public is not restricted to the public at large. It includes any section of the public, it is immaterial howsoever such section is selected. Public connotes persons not personally known to the promoter as distinguished from his own friends, relatives, connections and acquaintances. Re, South of England Natural Gas and Petroleum Co. Ltd10 Facts – 3000 copies of a document which was offered for subscription of shares in a company and which was headed “For Private Circulation only,” circulated to the members of certain number of gas companies only. Legal Question – Was this a prospectus? Should it contain the particulars required by the Act? Decision – It was decided that though the offer was only to limited class, it was not less than an offer to the public in any sense, because those persons from limited 10 (1911) 1 Ch. 573 | 104 LT 378
+
+END SOURCE 11
+====================

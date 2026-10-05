@@ -4,17 +4,17 @@ from app.services.knowledge_ingestion_service import process_all_pdfs
 
 
 SUBJECTS = {
-
-    
+    "Direct Tax":
+        r"data\01_Direct_Tax",
 
     "Indirect Tax":
         r"data\02_Indirect_Tax",
 
     "Corporate and Other Laws":
-        r"data\03_Corporate_and_Other_Laws",
+        r"data\03_Corporate_Other_Laws",
 
     "Auditing, Assurance and Professional Ethics":
-        r"data\04_Auditing_Assurance_and_Professional_Ethics",
+        r"data\04_Auditing_Assurance_Professional_Ethics",
 
     "Financial Reporting":
         r"data\05_Financial_Reporting",
@@ -23,13 +23,11 @@ SUBJECTS = {
         r"data\06_Advanced_Financial_Management",
 
     "Cost and Management Accounting":
-        r"data\07_Cost_and_Management_Accounting",
+        r"data\07_Cost_Management_Accounting",
 
     "Strategic Management":
         r"data\08_Strategic_Management",
 }
-
-
 def main():
 
     db = SessionLocal()

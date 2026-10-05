@@ -1,0 +1,12 @@
+
+[PROBE] SEMANTIC: 30 items
+HIT pos=15 id=10630 page=56 hits=['every director']
+
+[PROBE] SEMANTIC: 30 items
+HIT pos=21 id=10628 page=54 hits=['every director']
+HIT pos=23 id=10630 page=56 hits=['every director']
+HIT pos=26 id=10927 page=111 hits=['seven days']
+HIT pos=27 id=11238 page=103 hits=['seven days']
+
+[PROBE] SEMANTIC: 30 items
+NO HITS

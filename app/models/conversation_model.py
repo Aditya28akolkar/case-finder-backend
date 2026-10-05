@@ -11,6 +11,8 @@ class Conversation(Base):
 
     session_id = Column(String, index=True)
 
+    title = Column(String, nullable=True)
+
     role = Column(String, nullable=False)
     # "user" or "assistant"
 

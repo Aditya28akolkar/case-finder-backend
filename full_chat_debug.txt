@@ -1,0 +1,1406 @@
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: 
+The Facts:
+
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand.
+
+The subscription list and the public offer are scheduled to open on Friday, 12th of the month.
+
+To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+
+The Question:
+
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013?
+
+Explain the legal consequence.
+
+EXPANDED QUERY: Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: Corporate and Other Laws
+
+========== RETRIEVAL TEST ==========
+QUESTION: 
+The Facts:
+
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand.
+
+The subscription list and the public offer are scheduled to open on Friday, 12th of the month.
+
+To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+
+The Question:
+
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013?
+
+Explain the legal consequence.
+
+EXPANDED: Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: Corporate and Other Laws
+DOCUMENT COUNT: 11
+RESULT 1: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 2: ID=10586, SUBJECT=Corporate and Other Laws, PAGE=12
+RESULT 3: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 4: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+RESULT 5: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 6: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 9: ID=10584, SUBJECT=Corporate and Other Laws, PAGE=10
+RESULT 10: ID=10585, SUBJECT=Corporate and Other Laws, PAGE=11
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: What is the minimum period before opening of the subscription list for filing an RHP?
+EXPANDED QUERY: What is the minimum period before opening of the subscription list for filing a Red Herring Prospectus (RHP)?
+SUBJECT: Corporate and Other Laws
+
+========== RETRIEVAL TEST ==========
+QUESTION: What is the minimum period before opening of the subscription list for filing an RHP?
+EXPANDED: What is the minimum period before opening of the subscription list for filing a Red Herring Prospectus (RHP)?
+SUBJECT: Corporate and Other Laws
+DOCUMENT COUNT: 11
+RESULT 1: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 4: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 5: ID=10612, SUBJECT=Corporate and Other Laws, PAGE=38
+RESULT 6: ID=10629, SUBJECT=Corporate and Other Laws, PAGE=55
+RESULT 7: ID=10630, SUBJECT=Corporate and Other Laws, PAGE=56
+RESULT 8: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+RESULT 9: ID=10633, SUBJECT=Corporate and Other Laws, PAGE=59
+RESULT 10: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: A company files its RHP two days before the subscription list opens. Did it comply with the required timeline?
+EXPANDED QUERY: Did a company that files its Red Herring Prospectus (RHP) two days before the subscription list opens comply with the required timeline?
+SUBJECT: Corporate and Other Laws
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 4: ID=10628, SUBJECT=Corporate and Other Laws, PAGE=54
+RESULT 5: ID=10578, SUBJECT=Corporate and Other Laws, PAGE=4
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 8: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 9: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 10: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: The Facts: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. The Question: Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: The Facts: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. The Question: Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 4: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts: Zenith Ltd. files its Red Herring Prospectus with the Registrar on Tuesday, 9th. The subscription list and offer open on Friday, 12th. The applicable ICAI material states that the RHP must be filed at least three days before the opening. Did Zenith comply? Explain your answer.
+EXPANDED QUERY: Zenith Ltd. files its Red Herring Prospectus with the Registrar on Tuesday, 9th. The subscription list and offer open on Friday, 12th. The applicable ICAI material states that the Red Herring Prospectus (RHP) must be filed at least three days before the opening. Did Zenith comply? Explain your answer.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts: Zenith Ltd. files its Red Herring Prospectus with the Registrar on Tuesday, 9th. The subscription list and offer open on Friday, 12th. The applicable ICAI material states that the RHP must be filed at least three days before the opening. Did Zenith comply? Explain your answer.
+EXPANDED: Zenith Ltd. files its Red Herring Prospectus with the Registrar on Tuesday, 9th. The subscription list and offer open on Friday, 12th. The applicable ICAI material states that the Red Herring Prospectus (RHP) must be filed at least three days before the opening. Did Zenith comply? Explain your answer.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 2: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 3: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 4: ID=10484, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 6: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10629, SUBJECT=Corporate and Other Laws, PAGE=55
+RESULT 9: ID=10630, SUBJECT=Corporate and Other Laws, PAGE=56
+RESULT 10: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: What is the minimum period before opening of the subscription list for filing an RHP?
+EXPANDED QUERY: What is the minimum period before opening of the subscription list for filing a Red Herring Prospectus (RHP)?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: What is the minimum period before opening of the subscription list for filing an RHP?
+EXPANDED: What is the minimum period before opening of the subscription list for filing a Red Herring Prospectus (RHP)?
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 4: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 5: ID=10612, SUBJECT=Corporate and Other Laws, PAGE=38
+RESULT 6: ID=10629, SUBJECT=Corporate and Other Laws, PAGE=55
+RESULT 7: ID=10630, SUBJECT=Corporate and Other Laws, PAGE=56
+RESULT 8: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+RESULT 9: ID=10633, SUBJECT=Corporate and Other Laws, PAGE=59
+RESULT 10: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 4: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 8
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 4: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 6: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 7: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 8: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED QUERY: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the RHP with the Registrar of Companies (RoC) on Tuesday, 9th of the month.
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+EXPANDED: Zenith Ltd. decides to launch its Initial Public Offering (IPO) and plans to issue a Red Herring Prospectus to gauge market demand. The subscription list and the public offer are scheduled to open on Friday, 12th of the month. To comply with procedures, the company files the Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain the legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 4: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Aarav Industries is preparing to launch a public issue. Its management plans to open the subscription list on Friday, the 12th, and submits its Red Herring Prospectus to the Registrar on Tuesday, the 9th. During an internal compliance review, the finance team asks the company secretary to evaluate the filing timeline and document any legal implications supported by the applicable study material.
+EXPANDED QUERY: Aarav Industries is preparing to launch a public issue. Its management plans to open the subscription list on Friday, the 12th, and submits its Red Herring Prospectus to the Registrar on Tuesday, the 9th. During an internal compliance review, the finance team asks the company secretary to evaluate the filing timeline and document any legal implications supported by the applicable study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Aarav Industries is preparing to launch a public issue. Its management plans to open the subscription list on Friday, the 12th, and submits its Red Herring Prospectus to the Registrar on Tuesday, the 9th. During an internal compliance review, the finance team asks the company secretary to evaluate the filing timeline and document any legal implications supported by the applicable study material.
+EXPANDED: Aarav Industries is preparing to launch a public issue. Its management plans to open the subscription list on Friday, the 12th, and submits its Red Herring Prospectus to the Registrar on Tuesday, the 9th. During an internal compliance review, the finance team asks the company secretary to evaluate the filing timeline and document any legal implications supported by the applicable study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 4: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 9: ID=10629, SUBJECT=Corporate and Other Laws, PAGE=55
+RESULT 10: ID=10630, SUBJECT=Corporate and Other Laws, PAGE=56
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Mehta Corporation plans to open its public issue on Friday, the 12th. Due to an internal delay, the company submits its Red Herring Prospectus to the Registrar on Wednesday, the 10th. The compliance team discovers the delay while preparing its IPO records and needs a written assessment of whether the prescribed filing timeline was met and what can legitimately be concluded from the available study material.
+EXPANDED QUERY: Mehta Corporation plans to open its public issue on Friday, the 12th. Due to an internal delay, the company submits its Red Herring Prospectus to the Registrar on Wednesday, the 10th. The compliance team discovers the delay while preparing its IPO records and needs a written assessment of whether the prescribed filing timeline was met and what can legitimately be concluded from the available study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Mehta Corporation plans to open its public issue on Friday, the 12th. Due to an internal delay, the company submits its Red Herring Prospectus to the Registrar on Wednesday, the 10th. The compliance team discovers the delay while preparing its IPO records and needs a written assessment of whether the prescribed filing timeline was met and what can legitimately be concluded from the available study material.
+EXPANDED: Mehta Corporation plans to open its public issue on Friday, the 12th. Due to an internal delay, the company submits its Red Herring Prospectus to the Registrar on Wednesday, the 10th. The compliance team discovers the delay while preparing its IPO records and needs a written assessment of whether the prescribed filing timeline was met and what can legitimately be concluded from the available study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 2: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 3: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 4: ID=10484, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 6: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10629, SUBJECT=Corporate and Other Laws, PAGE=55
+RESULT 9: ID=10630, SUBJECT=Corporate and Other Laws, PAGE=56
+RESULT 10: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: During an audit of Narmada Limited's public issue, the compliance officer finds that application forms for shares were distributed without an accompanying abridged prospectus. The issue does not fall within any of the exceptions described in the study material. The board asks the compliance team to identify the relevant statutory requirement and the consequence expressly stated in the material.
+EXPANDED QUERY: During an audit of Narmada Limited's public issue, the compliance officer finds that application forms for shares were distributed without an accompanying abridged prospectus. The issue does not fall within any of the exceptions described in the study material. The board asks the compliance team to identify the relevant statutory requirement and the consequence expressly stated in the material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: During an audit of Narmada Limited's public issue, the compliance officer finds that application forms for shares were distributed without an accompanying abridged prospectus. The issue does not fall within any of the exceptions described in the study material. The board asks the compliance team to identify the relevant statutory requirement and the consequence expressly stated in the material.
+EXPANDED: During an audit of Narmada Limited's public issue, the compliance officer finds that application forms for shares were distributed without an accompanying abridged prospectus. The issue does not fall within any of the exceptions described in the study material. The board asks the compliance team to identify the relevant statutory requirement and the consequence expressly stated in the material.
+SUBJECT: None
+DOCUMENT COUNT: 9
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=12790, SUBJECT=Auditing, Assurance and Professional Ethics, PAGE=29
+RESULT 3: ID=10610, SUBJECT=Corporate and Other Laws, PAGE=36
+RESULT 4: ID=11466, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 5: ID=10627, SUBJECT=Corporate and Other Laws, PAGE=53
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 8: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 9: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts: Prakash Ltd. is preparing to launch a public issue. Its legal team is reviewing the Red Herring Prospectus filing requirement under Section 32(2) of the Companies Act, 2013. During an internal discussion, one employee mentions a penalty provision from Section 33 relating to an abridged prospectus.
+
+The Question: Explain the filing timeline applicable to Prakash Ltd. under Section 32(2). Does the penalty associated with Section 33 automatically apply if the company misses the RHP filing deadline?
+EXPANDED QUERY: Explain the filing timeline applicable to Prakash Ltd. under Section 32(2). Does the penalty associated with Section 33 automatically apply if the company misses the Red Herring Prospectus (RHP) filing deadline?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts: Prakash Ltd. is preparing to launch a public issue. Its legal team is reviewing the Red Herring Prospectus filing requirement under Section 32(2) of the Companies Act, 2013. During an internal discussion, one employee mentions a penalty provision from Section 33 relating to an abridged prospectus.
+
+The Question: Explain the filing timeline applicable to Prakash Ltd. under Section 32(2). Does the penalty associated with Section 33 automatically apply if the company misses the RHP filing deadline?
+EXPANDED: Explain the filing timeline applicable to Prakash Ltd. under Section 32(2). Does the penalty associated with Section 33 automatically apply if the company misses the Red Herring Prospectus (RHP) filing deadline?
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 4: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 5: ID=10607, SUBJECT=Corporate and Other Laws, PAGE=33
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 8: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 9: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 10: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts: Riverstone Ltd. plans to issue a Red Herring Prospectus. The subscription list and public offer are scheduled to open on the 20th of the month. The company files the RHP with the Registrar on the 18th. The company secretary realizes that the filing occurred only two days before the scheduled opening.
+
+The Question: Assess whether Riverstone Ltd. met the RHP filing timeline under Section 32(2) of the Companies Act, 2013. Explain the applicable rule and identify the legal consequence of failing to meet the timeline, based strictly on the supplied ICAI study material.
+EXPANDED QUERY: Riverstone Ltd. plans to issue a Red Herring Prospectus. The subscription list and public offer are scheduled to open on the 20th of the month. The company files the Red Herring Prospectus (RHP) with the Registrar on the 18th. The company secretary realizes that the filing occurred only two days before the scheduled opening. Assess whether Riverstone Ltd. met the Red Herring Prospectus (RHP) filing timeline under Section 32(2) of the Companies Act, 2013. Explain the applicable rule and identify the legal consequence of failing to meet the timeline, based strictly on the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts: Riverstone Ltd. plans to issue a Red Herring Prospectus. The subscription list and public offer are scheduled to open on the 20th of the month. The company files the RHP with the Registrar on the 18th. The company secretary realizes that the filing occurred only two days before the scheduled opening.
+
+The Question: Assess whether Riverstone Ltd. met the RHP filing timeline under Section 32(2) of the Companies Act, 2013. Explain the applicable rule and identify the legal consequence of failing to meet the timeline, based strictly on the supplied ICAI study material.
+EXPANDED: Riverstone Ltd. plans to issue a Red Herring Prospectus. The subscription list and public offer are scheduled to open on the 20th of the month. The company files the Red Herring Prospectus (RHP) with the Registrar on the 18th. The company secretary realizes that the filing occurred only two days before the scheduled opening. Assess whether Riverstone Ltd. met the Red Herring Prospectus (RHP) filing timeline under Section 32(2) of the Companies Act, 2013. Explain the applicable rule and identify the legal consequence of failing to meet the timeline, based strictly on the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts: Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The application forms are distributed without an abridged prospectus. No exception to the abridged-prospectus requirement applies to this offer. During a compliance review, the company asks whether the Companies Act, 2013 provides a penalty for this default.
+
+The Question: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED QUERY: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts: Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The application forms are distributed without an abridged prospectus. No exception to the abridged-prospectus requirement applies to this offer. During a compliance review, the company asks whether the Companies Act, 2013 provides a penalty for this default.
+
+The Question: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10628, SUBJECT=Corporate and Other Laws, PAGE=54
+RESULT 4: ID=11470, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 5: ID=10614, SUBJECT=Corporate and Other Laws, PAGE=40
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 9: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 10: ID=10626, SUBJECT=Corporate and Other Laws, PAGE=52
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts: Suryodaya Ltd. intends to issue a Red Herring Prospectus before opening its public subscription. The company’s compliance officer searches the company’s legal knowledge base and finds two extracts: one discusses the three-day RHP filing deadline under Section 32(2), while another describes a penalty for failing to accompany a share application form with an abridged prospectus under Section 33.
+
+The Question: Based strictly on the relevant provision, what filing deadline must Suryodaya Ltd. meet? Do not apply a penalty from another section unless the supplied material establishes that it applies to this violation.
+EXPANDED QUERY: The Facts: Suryodaya Ltd. intends to issue a Red Herring Prospectus before opening its public subscription. The company’s compliance officer searches the company’s legal knowledge base and finds two extracts: one discusses the three-day Red Herring Prospectus (RHP) filing deadline under Section 32(2), while another describes a penalty for failing to accompany a share application form with an abridged prospectus under Section 33. The Question: Based strictly on the relevant provision, what filing deadline must Suryodaya Ltd. meet? Do not apply a penalty from another section unless the supplied material establishes that it applies to this violation.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts: Suryodaya Ltd. intends to issue a Red Herring Prospectus before opening its public subscription. The company’s compliance officer searches the company’s legal knowledge base and finds two extracts: one discusses the three-day RHP filing deadline under Section 32(2), while another describes a penalty for failing to accompany a share application form with an abridged prospectus under Section 33.
+
+The Question: Based strictly on the relevant provision, what filing deadline must Suryodaya Ltd. meet? Do not apply a penalty from another section unless the supplied material establishes that it applies to this violation.
+EXPANDED: The Facts: Suryodaya Ltd. intends to issue a Red Herring Prospectus before opening its public subscription. The company’s compliance officer searches the company’s legal knowledge base and finds two extracts: one discusses the three-day Red Herring Prospectus (RHP) filing deadline under Section 32(2), while another describes a penalty for failing to accompany a share application form with an abridged prospectus under Section 33. The Question: Based strictly on the relevant provision, what filing deadline must Suryodaya Ltd. meet? Do not apply a penalty from another section unless the supplied material establishes that it applies to this violation.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 4: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 5: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 8: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 9: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 10: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts: Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The application forms are distributed without an abridged prospectus. No exception to the abridged-prospectus requirement applies to this offer. During a compliance review, the company asks whether the Companies Act, 2013 provides a penalty for this default.
+
+The Question: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED QUERY: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts: Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The application forms are distributed without an abridged prospectus. No exception to the abridged-prospectus requirement applies to this offer. During a compliance review, the company asks whether the Companies Act, 2013 provides a penalty for this default.
+
+The Question: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10628, SUBJECT=Corporate and Other Laws, PAGE=54
+RESULT 4: ID=10614, SUBJECT=Corporate and Other Laws, PAGE=40
+RESULT 5: ID=11470, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 9: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 10: ID=10626, SUBJECT=Corporate and Other Laws, PAGE=52
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: he Facts: Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The application forms are distributed without an abridged prospectus. No exception to the abridged-prospectus requirement applies to this offer. During a compliance review, the company asks whether the Companies Act, 2013 provides a penalty for this default.
+
+The Question: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED QUERY: he Facts: Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The application forms are distributed without an abridged prospectus. No exception to the abridged-prospectus requirement applies to this offer. During a compliance review, the company asks whether the Companies Act, 2013 provides a penalty for this default. The Question: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: he Facts: Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The application forms are distributed without an abridged prospectus. No exception to the abridged-prospectus requirement applies to this offer. During a compliance review, the company asks whether the Companies Act, 2013 provides a penalty for this default.
+
+The Question: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED: he Facts: Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The application forms are distributed without an abridged prospectus. No exception to the abridged-prospectus requirement applies to this offer. During a compliance review, the company asks whether the Companies Act, 2013 provides a penalty for this default. The Question: Apply Section 33 of the Companies Act, 2013 to these facts. Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10628, SUBJECT=Corporate and Other Laws, PAGE=54
+RESULT 4: ID=10576, SUBJECT=Corporate and Other Laws, PAGE=2
+RESULT 5: ID=10614, SUBJECT=Corporate and Other Laws, PAGE=40
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 9: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 10: ID=10626, SUBJECT=Corporate and Other Laws, PAGE=52
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts: Aarav Industries Ltd. schedules the opening of its subscription list and public offer for Friday the 12th. It files its Red Herring Prospectus with the Registrar on Tuesday the 9th. The company wants to know whether its filing meets the timeline in Section 32(2) of the Companies Act, 2013.
+
+The Question: Give a structured compliance assessment covering the issue, applicable rule, application to the dates, conclusion, and any legal consequence supported by the supplied ICAI study material.
+EXPANDED QUERY: The Facts: Aarav Industries Ltd. schedules the opening of its subscription list and public offer for Friday the 12th. It files its Red Herring Prospectus with the Registrar on Tuesday the 9th. The company wants to know whether its filing meets the timeline in Section 32(2) of the Companies Act, 2013. The Question: Give a structured compliance assessment covering the issue, applicable rule, application to the dates, conclusion, and any legal consequence supported by the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts: Aarav Industries Ltd. schedules the opening of its subscription list and public offer for Friday the 12th. It files its Red Herring Prospectus with the Registrar on Tuesday the 9th. The company wants to know whether its filing meets the timeline in Section 32(2) of the Companies Act, 2013.
+
+The Question: Give a structured compliance assessment covering the issue, applicable rule, application to the dates, conclusion, and any legal consequence supported by the supplied ICAI study material.
+EXPANDED: The Facts: Aarav Industries Ltd. schedules the opening of its subscription list and public offer for Friday the 12th. It files its Red Herring Prospectus with the Registrar on Tuesday the 9th. The company wants to know whether its filing meets the timeline in Section 32(2) of the Companies Act, 2013. The Question: Give a structured compliance assessment covering the issue, applicable rule, application to the dates, conclusion, and any legal consequence supported by the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: **The Facts:**
+
+Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The company distributes application forms without an abridged prospectus. No statutory exception applies to this offer. During a compliance review, the company secretary discovers the omission and wants to understand the applicable legal provision.
+
+**The Question:**
+
+Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED QUERY: Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: **The Facts:**
+
+Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The company distributes application forms without an abridged prospectus. No statutory exception applies to this offer. During a compliance review, the company secretary discovers the omission and wants to understand the applicable legal provision.
+
+**The Question:**
+
+Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED: Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=11466, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 4: ID=7146, SUBJECT=Indirect Tax, PAGE=13
+RESULT 5: ID=11514, SUBJECT=Corporate and Other Laws, PAGE=26
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 9: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 10: ID=11464, SUBJECT=Corporate and Other Laws, PAGE=17
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+
+Aarohi Limited issues an information memorandum in connection with a public offer. Later, the terms of the issue change. Several applicants have already paid money in advance and request to withdraw their applications. The company is reviewing its obligations under Section 31(2) of the Companies Act, 2013.
+
+The Question:
+
+What must Aarohi Limited do with the money paid by applicants who request withdrawal, and within what period? Explain the applicable rule based on the supplied ICAI study material.
+EXPANDED QUERY: The Facts: Aarohi Limited issues an information memorandum in connection with a public offer. Later, the terms of the issue change. Several applicants have already paid money in advance and request to withdraw their applications. The company is reviewing its obligations under Section 31(2) of the Companies Act, 2013. The Question: What must Aarohi Limited do with the money paid by applicants who request withdrawal, and within what period? Explain the applicable rule based on the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+
+Aarohi Limited issues an information memorandum in connection with a public offer. Later, the terms of the issue change. Several applicants have already paid money in advance and request to withdraw their applications. The company is reviewing its obligations under Section 31(2) of the Companies Act, 2013.
+
+The Question:
+
+What must Aarohi Limited do with the money paid by applicants who request withdrawal, and within what period? Explain the applicable rule based on the supplied ICAI study material.
+EXPANDED: The Facts: Aarohi Limited issues an information memorandum in connection with a public offer. Later, the terms of the issue change. Several applicants have already paid money in advance and request to withdraw their applications. The company is reviewing its obligations under Section 31(2) of the Companies Act, 2013. The Question: What must Aarohi Limited do with the money paid by applicants who request withdrawal, and within what period? Explain the applicable rule based on the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 1
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+
+Vindhya Technologies Ltd. plans to open its subscription list and public offer on the 25th of the month. The company files its Red Herring Prospectus with the Registrar on the 23rd. The compliance officer believes the filing is valid because it was completed before the opening date.
+
+The Question:
+
+Assess whether Vindhya Technologies Ltd. satisfies the filing timeline under Section 32(2) of the Companies Act, 2013. Apply the three-day requirement to the dates and state the legal consequence only to the extent supported by the supplied ICAI study material.
+EXPANDED QUERY: Vindhya Technologies Ltd. plans to open its subscription list and public offer on the 25th of the month. The company files its Red Herring Prospectus with the Registrar on the 23rd. The compliance officer believes the filing is valid because it was completed before the opening date. Assess whether Vindhya Technologies Ltd. satisfies the filing timeline under Section 32(2) of the Companies Act, 2013. Apply the three-day requirement to the dates and state the legal consequence only to the extent supported by the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+
+Vindhya Technologies Ltd. plans to open its subscription list and public offer on the 25th of the month. The company files its Red Herring Prospectus with the Registrar on the 23rd. The compliance officer believes the filing is valid because it was completed before the opening date.
+
+The Question:
+
+Assess whether Vindhya Technologies Ltd. satisfies the filing timeline under Section 32(2) of the Companies Act, 2013. Apply the three-day requirement to the dates and state the legal consequence only to the extent supported by the supplied ICAI study material.
+EXPANDED: Vindhya Technologies Ltd. plans to open its subscription list and public offer on the 25th of the month. The company files its Red Herring Prospectus with the Registrar on the 23rd. The compliance officer believes the filing is valid because it was completed before the opening date. Assess whether Vindhya Technologies Ltd. satisfies the filing timeline under Section 32(2) of the Companies Act, 2013. Apply the three-day requirement to the dates and state the legal consequence only to the extent supported by the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10635, SUBJECT=Corporate and Other Laws, PAGE=61
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 8: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 9: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 10: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+
+Malwa Finance Ltd. is preparing application forms for a public issue of shares. The legal team argues that because the company has prepared a full prospectus, it can distribute the application forms without separately accompanying them with an abridged prospectus. No exception to the statutory requirement applies.
+
+The Question:
+
+Evaluate the legal team's reasoning under Section 33 of the Companies Act, 2013. Explain the relevant requirement and identify the penalty specified in the supplied ICAI study material if the company defaults.
+EXPANDED QUERY: The Facts: Malwa Finance Ltd. is preparing application forms for a public issue of shares. The legal team argues that because the company has prepared a full prospectus, it can distribute the application forms without separately accompanying them with an abridged prospectus. No exception to the statutory requirement applies. The Question: Evaluate the legal team's reasoning under Section 33 of the Companies Act, 2013. Explain the relevant requirement and identify the penalty specified in the supplied ICAI study material if the company defaults.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+
+Malwa Finance Ltd. is preparing application forms for a public issue of shares. The legal team argues that because the company has prepared a full prospectus, it can distribute the application forms without separately accompanying them with an abridged prospectus. No exception to the statutory requirement applies.
+
+The Question:
+
+Evaluate the legal team's reasoning under Section 33 of the Companies Act, 2013. Explain the relevant requirement and identify the penalty specified in the supplied ICAI study material if the company defaults.
+EXPANDED: The Facts: Malwa Finance Ltd. is preparing application forms for a public issue of shares. The legal team argues that because the company has prepared a full prospectus, it can distribute the application forms without separately accompanying them with an abridged prospectus. No exception to the statutory requirement applies. The Question: Evaluate the legal team's reasoning under Section 33 of the Companies Act, 2013. Explain the relevant requirement and identify the penalty specified in the supplied ICAI study material if the company defaults.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=10628, SUBJECT=Corporate and Other Laws, PAGE=54
+RESULT 4: ID=10614, SUBJECT=Corporate and Other Laws, PAGE=40
+RESULT 5: ID=10576, SUBJECT=Corporate and Other Laws, PAGE=2
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 9: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 10: ID=10626, SUBJECT=Corporate and Other Laws, PAGE=52
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: **The Facts:**
+
+During an internal audit, the legal team of Suryodaya Ltd. reviews three separate compliance matters: filing a Red Herring Prospectus before the subscription list opens, accompanying share application forms with an abridged prospectus, and refunding advance money to applicants who request withdrawal after changes to an issue's terms. Different provisions of the Companies Act, 2013 govern these matters.
+
+The management asks for a brief compliance note distinguishing the three requirements. The team must not apply a penalty from one provision to a violation of another.
+
+**The Question:**
+
+Using only the supplied ICAI study material, explain the relevant requirement for each of the three matters, identify the applicable section where supported, and state any deadline or penalty that the material explicitly provides. Clearly indicate if a legal consequence is not specified in the supplied material.
+EXPANDED QUERY: Using only the supplied ICAI study material, explain the relevant requirement for each of the three matters: filing a Red Herring Prospectus before the subscription list opens, accompanying share application forms with an abridged prospectus, and refunding advance money to applicants who request withdrawal after changes to an issue's terms. Identify the applicable section where supported, and state any deadline or penalty that the material explicitly provides. Clearly indicate if a legal consequence is not specified in the supplied material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: **The Facts:**
+
+During an internal audit, the legal team of Suryodaya Ltd. reviews three separate compliance matters: filing a Red Herring Prospectus before the subscription list opens, accompanying share application forms with an abridged prospectus, and refunding advance money to applicants who request withdrawal after changes to an issue's terms. Different provisions of the Companies Act, 2013 govern these matters.
+
+The management asks for a brief compliance note distinguishing the three requirements. The team must not apply a penalty from one provision to a violation of another.
+
+**The Question:**
+
+Using only the supplied ICAI study material, explain the relevant requirement for each of the three matters, identify the applicable section where supported, and state any deadline or penalty that the material explicitly provides. Clearly indicate if a legal consequence is not specified in the supplied material.
+EXPANDED: Using only the supplied ICAI study material, explain the relevant requirement for each of the three matters: filing a Red Herring Prospectus before the subscription list opens, accompanying share application forms with an abridged prospectus, and refunding advance money to applicants who request withdrawal after changes to an issue's terms. Identify the applicable section where supported, and state any deadline or penalty that the material explicitly provides. Clearly indicate if a legal consequence is not specified in the supplied material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 2: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 3: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 4: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 5: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+RESULT 6: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 7: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 8: ID=10592, SUBJECT=Corporate and Other Laws, PAGE=18
+RESULT 9: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 10: ID=10630, SUBJECT=Corporate and Other Laws, PAGE=56
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: **The Facts:**
+
+Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The company distributes application forms without an abridged prospectus. No statutory exception applies to this offer. During a compliance review, the company secretary discovers the omission and wants to understand the applicable legal provision.
+
+**The Question:**
+
+Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED QUERY: Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: **The Facts:**
+
+Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The company distributes application forms without an abridged prospectus. No statutory exception applies to this offer. During a compliance review, the company secretary discovers the omission and wants to understand the applicable legal provision.
+
+**The Question:**
+
+Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED: Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=11466, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 4: ID=7146, SUBJECT=Indirect Tax, PAGE=13
+RESULT 5: ID=7213, SUBJECT=Indirect Tax, PAGE=80
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 9: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 10: ID=11464, SUBJECT=Corporate and Other Laws, PAGE=17
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: *The Facts:**
+
+Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The company distributes application forms without an abridged prospectus. No statutory exception applies to this offer. During a compliance review, the company secretary discovers the omission and wants to understand the applicable legal provision.
+
+**The Question:**
+
+Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED QUERY: Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: *The Facts:**
+
+Narmada Industries Ltd. invites applications from the public for subscribing to its shares. The company distributes application forms without an abridged prospectus. No statutory exception applies to this offer. During a compliance review, the company secretary discovers the omission and wants to understand the applicable legal provision.
+
+**The Question:**
+
+Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+EXPANDED: Has Narmada Industries Ltd. complied with Section 33 of the Companies Act, 2013? Identify the requirement that was breached and state the penalty specified in the supplied ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 10
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=11470, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 4: ID=10602, SUBJECT=Corporate and Other Laws, PAGE=28
+RESULT 5: ID=10626, SUBJECT=Corporate and Other Laws, PAGE=52
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 9: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 10: ID=11468, SUBJECT=Corporate and Other Laws, PAGE=21
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The facts: Sunrise Ltd. invites applications for its shares and distributes application forms without an abridged prospectus. No statutory exception applies.
+The question: Has Sunrise Ltd. complied with Section 33? Identify the breached requirement and state the penalty specified in the ICAI study material.
+EXPANDED QUERY: The facts: Sunrise Ltd. invites applications for its shares and distributes application forms without an abridged prospectus. No statutory exception applies. The question: Has Sunrise Ltd. complied with Section 33? Identify the breached requirement and state the penalty specified in the ICAI study material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The facts: Sunrise Ltd. invites applications for its shares and distributes application forms without an abridged prospectus. No statutory exception applies.
+The question: Has Sunrise Ltd. complied with Section 33? Identify the breached requirement and state the penalty specified in the ICAI study material.
+EXPANDED: The facts: Sunrise Ltd. invites applications for its shares and distributes application forms without an abridged prospectus. No statutory exception applies. The question: Has Sunrise Ltd. complied with Section 33? Identify the breached requirement and state the penalty specified in the ICAI study material.
+SUBJECT: None
+DOCUMENT COUNT: 10
+RESULT 1: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 2: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 3: ID=11470, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 4: ID=10602, SUBJECT=Corporate and Other Laws, PAGE=28
+RESULT 5: ID=10626, SUBJECT=Corporate and Other Laws, PAGE=52
+RESULT 6: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10599, SUBJECT=Corporate and Other Laws, PAGE=25
+RESULT 9: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 10: ID=11468, SUBJECT=Corporate and Other Laws, PAGE=21
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The facts: Apex Ltd. plans to open its subscription list on 20 August. It files its red herring prospectus with the Registrar on 18 August.
+The question: Has Apex Ltd. complied with Section 32(2)? Explain the applicable deadline and state whether the supplied ICAI material specifies a legal consequence for non-compliance.
+EXPANDED QUERY: The facts: Apex Ltd. plans to open its subscription list on 20 August. It files its red herring prospectus with the Registrar on 18 August. The question: Has Apex Ltd. complied with Section 32(2)? Explain the applicable deadline and state whether the supplied ICAI material specifies a legal consequence for non-compliance.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The facts: Apex Ltd. plans to open its subscription list on 20 August. It files its red herring prospectus with the Registrar on 18 August.
+The question: Has Apex Ltd. complied with Section 32(2)? Explain the applicable deadline and state whether the supplied ICAI material specifies a legal consequence for non-compliance.
+EXPANDED: The facts: Apex Ltd. plans to open its subscription list on 20 August. It files its red herring prospectus with the Registrar on 18 August. The question: Has Apex Ltd. complied with Section 32(2)? Explain the applicable deadline and state whether the supplied ICAI material specifies a legal consequence for non-compliance.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The facts: Applicants paid money in advance for securities under an information memorandum. The information memorandum was later updated, and an applicant requested withdrawal. The company refunds the money 20 days after receiving the withdrawal request.
+The question: Has the company complied with the refund timeline specified in the supplied ICAI study material? Explain your answer.
+EXPANDED QUERY: The facts: Applicants paid money in advance for securities under an information memorandum. The information memorandum was later updated, and an applicant requested withdrawal. The company refunds the money 20 days after receiving the withdrawal request. The question: Has the company complied with the refund timeline specified in the supplied ICAI study material? Explain your answer.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The facts: Applicants paid money in advance for securities under an information memorandum. The information memorandum was later updated, and an applicant requested withdrawal. The company refunds the money 20 days after receiving the withdrawal request.
+The question: Has the company complied with the refund timeline specified in the supplied ICAI study material? Explain your answer.
+EXPANDED: The facts: Applicants paid money in advance for securities under an information memorandum. The information memorandum was later updated, and an applicant requested withdrawal. The company refunds the money 20 days after receiving the withdrawal request. The question: Has the company complied with the refund timeline specified in the supplied ICAI study material? Explain your answer.
+SUBJECT: None
+DOCUMENT COUNT: 1
+RESULT 1: ID=6457, SUBJECT=Indirect Tax, PAGE=11
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The facts: Bluebird Ltd. distributes application forms without an abridged prospectus, despite no statutory exception applying. Separately, its red herring prospectus was filed with the Registrar only two days before the subscription list opened.
+The question: Identify the relevant sections, assess compliance with each requirement, and state the penalty only where it is explicitly supported by the supplied ICAI material.
+EXPANDED QUERY: The facts: Bluebird Ltd. distributes application forms without an abridged prospectus, despite no statutory exception applying. Separately, its red herring prospectus was filed with the Registrar only two days before the subscription list opened. The question: Identify the relevant sections, assess compliance with each requirement, and state the penalty only where it is explicitly supported by the supplied ICAI material.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The facts: Bluebird Ltd. distributes application forms without an abridged prospectus, despite no statutory exception applying. Separately, its red herring prospectus was filed with the Registrar only two days before the subscription list opened.
+The question: Identify the relevant sections, assess compliance with each requirement, and state the penalty only where it is explicitly supported by the supplied ICAI material.
+EXPANDED: The facts: Bluebird Ltd. distributes application forms without an abridged prospectus, despite no statutory exception applying. Separately, its red herring prospectus was filed with the Registrar only two days before the subscription list opened. The question: Identify the relevant sections, assess compliance with each requirement, and state the penalty only where it is explicitly supported by the supplied ICAI material.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 2: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10626, SUBJECT=Corporate and Other Laws, PAGE=52
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10629, SUBJECT=Corporate and Other Laws, PAGE=55
+RESULT 7: ID=10630, SUBJECT=Corporate and Other Laws, PAGE=56
+RESULT 8: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+RESULT 9: ID=10633, SUBJECT=Corporate and Other Laws, PAGE=59
+RESULT 10: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The facts: Kaveri Ltd. files its red herring prospectus with the Registrar on Monday, and its subscription list opens on Thursday. The company name does not appear anywhere in the supplied ICAI study material.
+The question: Using the applicable rule in the ICAI material, determine whether Kaveri Ltd. met the filing deadline. Do not treat the absence of the company name from the material as missing scenario facts.
+EXPANDED QUERY: The facts: Kaveri Ltd. files its red herring prospectus with the Registrar on Monday, and its subscription list opens on Thursday. The company name does not appear anywhere in the supplied ICAI study material. The question: Using the applicable rule in the ICAI material, determine whether Kaveri Ltd. met the filing deadline. Do not treat the absence of the company name from the material as missing scenario facts.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The facts: Kaveri Ltd. files its red herring prospectus with the Registrar on Monday, and its subscription list opens on Thursday. The company name does not appear anywhere in the supplied ICAI study material.
+The question: Using the applicable rule in the ICAI material, determine whether Kaveri Ltd. met the filing deadline. Do not treat the absence of the company name from the material as missing scenario facts.
+EXPANDED: The facts: Kaveri Ltd. files its red herring prospectus with the Registrar on Monday, and its subscription list opens on Thursday. The company name does not appear anywhere in the supplied ICAI study material. The question: Using the applicable rule in the ICAI material, determine whether Kaveri Ltd. met the filing deadline. Do not treat the absence of the company name from the material as missing scenario facts.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 2: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 3: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 4: ID=10612, SUBJECT=Corporate and Other Laws, PAGE=38
+RESULT 5: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 6: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 7: ID=10598, SUBJECT=Corporate and Other Laws, PAGE=24
+RESULT 8: ID=10629, SUBJECT=Corporate and Other Laws, PAGE=55
+RESULT 9: ID=10630, SUBJECT=Corporate and Other Laws, PAGE=56
+RESULT 10: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The facts: Applicants paid money in advance for securities under an information memorandum. The information memorandum was later updated, and an applicant requested withdrawal. The company refunds the money 20 days after receiving the withdrawal request.
+The question: Has the company complied with the refund timeline specified in the supplied ICAI study material? Explain your answer.
+EXPANDED QUERY: The facts: Applicants paid money in advance for securities under an information memorandum. The information memorandum was later updated, and an applicant requested withdrawal. The company refunds the money 20 days after receiving the withdrawal request. The question: Has the company complied with the refund timeline specified in the supplied ICAI study material? Explain your answer.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The facts: Applicants paid money in advance for securities under an information memorandum. The information memorandum was later updated, and an applicant requested withdrawal. The company refunds the money 20 days after receiving the withdrawal request.
+The question: Has the company complied with the refund timeline specified in the supplied ICAI study material? Explain your answer.
+EXPANDED: The facts: Applicants paid money in advance for securities under an information memorandum. The information memorandum was later updated, and an applicant requested withdrawal. The company refunds the money 20 days after receiving the withdrawal request. The question: Has the company complied with the refund timeline specified in the supplied ICAI study material? Explain your answer.
+SUBJECT: None
+DOCUMENT COUNT: 1
+RESULT 1: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month.
+The Question:
+Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+EXPANDED QUERY: Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month. Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month.
+The Question:
+Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+EXPANDED: Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month. Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month.
+The Question:
+Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+EXPANDED QUERY: The Facts: Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month. The Question: Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month.
+The Question:
+Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+EXPANDED: The Facts: Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month. The Question: Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 4: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month.
+The Question:
+Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+EXPANDED QUERY: The Facts: Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month. The Question: Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month.
+The Question:
+Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+EXPANDED: The Facts: Aarav Ltd. plans to launch an IPO, with the subscription list scheduled to open on Monday, 18th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies (RoC) on Saturday, 16th of the month. The Question: Did Aarav Ltd. comply with the filing timeline under Section 32(2) of the Companies Act, 2013? Explain the applicable deadline and legal consequence.
+SUBJECT: None
+DOCUMENT COUNT: 9
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=190, SUBJECT=Direct Tax, PAGE=30
+RESULT 4: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Scenario:
+ABC Ltd. issued a shelf prospectus for multiple issues of securities. After the first offer, the company’s financial position changed due to a new charge created on its assets. The company subsequently made another offer of securities under the same shelf prospectus without filing the required information memorandum disclosing this change.
+Question:
+Did ABC Ltd. comply with the applicable requirements under Section 31 of the Companies Act, 2013? Explain the relevant legal requirement and state the legal consequence of non-compliance, only if the provided study material specifies it.
+EXPANDED QUERY: ABC Ltd. issued a shelf prospectus for multiple issues of securities. After the first offer, the company’s financial position changed due to a new charge created on its assets. The company subsequently made another offer of securities under the same shelf prospectus without filing the required information memorandum disclosing this change. Did ABC Ltd. comply with the applicable requirements under Section 31 of the Companies Act, 2013? Explain the relevant legal requirement and state the legal consequence of non-compliance, only if the provided study material specifies it.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Scenario:
+ABC Ltd. issued a shelf prospectus for multiple issues of securities. After the first offer, the company’s financial position changed due to a new charge created on its assets. The company subsequently made another offer of securities under the same shelf prospectus without filing the required information memorandum disclosing this change.
+Question:
+Did ABC Ltd. comply with the applicable requirements under Section 31 of the Companies Act, 2013? Explain the relevant legal requirement and state the legal consequence of non-compliance, only if the provided study material specifies it.
+EXPANDED: ABC Ltd. issued a shelf prospectus for multiple issues of securities. After the first offer, the company’s financial position changed due to a new charge created on its assets. The company subsequently made another offer of securities under the same shelf prospectus without filing the required information memorandum disclosing this change. Did ABC Ltd. comply with the applicable requirements under Section 31 of the Companies Act, 2013? Explain the relevant legal requirement and state the legal consequence of non-compliance, only if the provided study material specifies it.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 3: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 4: ID=10632, SUBJECT=Corporate and Other Laws, PAGE=58
+RESULT 5: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 6: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 7: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 8: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 9: ID=10591, SUBJECT=Corporate and Other Laws, PAGE=17
+RESULT 10: ID=10592, SUBJECT=Corporate and Other Laws, PAGE=18
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Under Section 32, did the company comply with the RHP filing timeline, and what is the legal consequence?
+EXPANDED QUERY: Under Section 32, did the company comply with the Red Herring Prospectus (RHP) filing timeline, and what is the legal consequence?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Under Section 32, did the company comply with the RHP filing timeline, and what is the legal consequence?
+EXPANDED: Under Section 32, did the company comply with the Red Herring Prospectus (RHP) filing timeline, and what is the legal consequence?
+SUBJECT: None
+DOCUMENT COUNT: 9
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=190, SUBJECT=Direct Tax, PAGE=30
+RESULT 4: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: What is the RHP filing deadline under Section 32?
+EXPANDED QUERY: What is the Red Herring Prospectus (RHP) filing deadline under Section 32?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: What is the RHP filing deadline under Section 32?
+EXPANDED: What is the Red Herring Prospectus (RHP) filing deadline under Section 32?
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10484, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10626, SUBJECT=Corporate and Other Laws, PAGE=52
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 8: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 9: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 10: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED QUERY: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+DOCUMENT COUNT: 9
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=190, SUBJECT=Direct Tax, PAGE=30
+RESULT 4: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED QUERY: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+DOCUMENT COUNT: 9
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=190, SUBJECT=Direct Tax, PAGE=30
+RESULT 4: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED QUERY: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+DOCUMENT COUNT: 8
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 4: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 6: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 7: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 8: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED QUERY: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+DOCUMENT COUNT: 8
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 4: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 6: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 7: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 8: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED QUERY: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: Under Section 32, what is the RHP filing deadline, and what legal consequence does the provided material specify for missing it?
+EXPANDED: Under Section 32, what is the Red Herring Prospectus (RHP) filing deadline, and what legal consequence does the provided material specify for missing it?
+SUBJECT: None
+DOCUMENT COUNT: 8
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 4: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 5: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 6: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 7: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 8: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Zenith Ltd. plans to launch its IPO, with the subscription list and public offer scheduled to open on Friday, 12th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies on Tuesday, 9th of the month.
+
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain your answer.
+EXPANDED QUERY: Zenith Ltd. plans to launch its IPO, with the subscription list and public offer scheduled to open on Friday, 12th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain your answer.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Zenith Ltd. plans to launch its IPO, with the subscription list and public offer scheduled to open on Friday, 12th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies on Tuesday, 9th of the month.
+
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain your answer.
+EXPANDED: Zenith Ltd. plans to launch its IPO, with the subscription list and public offer scheduled to open on Friday, 12th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies on Tuesday, 9th of the month. Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain your answer.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 4: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9
+
+
+========== FULL CHAT RETRIEVAL ==========
+ORIGINAL QUESTION: The Facts:
+Apex Ltd. plans to open its subscription list and public offer on the 20th of the month. However, the company files its Red Herring Prospectus with the Registrar of Companies on the 18th of the month.
+
+The Question:
+Has Apex Ltd. met the filing timeline prescribed under Section 32 of the Companies Act, 2013? Explain your answer.
+EXPANDED QUERY: The Facts: Apex Ltd. plans to open its subscription list and public offer on the 20th of the month. However, the company files its Red Herring Prospectus with the Registrar of Companies on the 18th of the month. The Question: Has Apex Ltd. met the filing timeline prescribed under Section 32 of the Companies Act, 2013? Explain your answer.
+SUBJECT: None
+
+========== RETRIEVAL TEST ==========
+QUESTION: The Facts:
+Apex Ltd. plans to open its subscription list and public offer on the 20th of the month. However, the company files its Red Herring Prospectus with the Registrar of Companies on the 18th of the month.
+
+The Question:
+Has Apex Ltd. met the filing timeline prescribed under Section 32 of the Companies Act, 2013? Explain your answer.
+EXPANDED: The Facts: Apex Ltd. plans to open its subscription list and public offer on the 20th of the month. However, the company files its Red Herring Prospectus with the Registrar of Companies on the 18th of the month. The Question: Has Apex Ltd. met the filing timeline prescribed under Section 32 of the Companies Act, 2013? Explain your answer.
+SUBJECT: None
+DOCUMENT COUNT: 11
+RESULT 1: ID=10595, SUBJECT=Corporate and Other Laws, PAGE=21
+RESULT 2: ID=10582, SUBJECT=Corporate and Other Laws, PAGE=8
+RESULT 3: ID=10596, SUBJECT=Corporate and Other Laws, PAGE=22
+RESULT 4: ID=10631, SUBJECT=Corporate and Other Laws, PAGE=57
+RESULT 5: ID=10594, SUBJECT=Corporate and Other Laws, PAGE=20
+RESULT 6: ID=10593, SUBJECT=Corporate and Other Laws, PAGE=19
+RESULT 7: ID=10597, SUBJECT=Corporate and Other Laws, PAGE=23
+RESULT 8: ID=10580, SUBJECT=Corporate and Other Laws, PAGE=6
+RESULT 9: ID=10581, SUBJECT=Corporate and Other Laws, PAGE=7
+RESULT 10: ID=10583, SUBJECT=Corporate and Other Laws, PAGE=9

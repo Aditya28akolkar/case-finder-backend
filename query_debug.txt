@@ -1,0 +1,20 @@
+========== ORIGINAL QUESTION ==========
+The Facts:
+Apex Ltd. plans to open its subscription list and public offer on the 20th of the month. However, the company files its Red Herring Prospectus with the Registrar of Companies on the 18th of the month.
+
+The Question:
+Has Apex Ltd. met the filing timeline prescribed under Section 32 of the Companies Act, 2013? Explain your answer.
+
+========== CONVERSATION HISTORY ==========
+USER: The Facts:
+Zenith Ltd. plans to launch its IPO, with the subscription list and public offer scheduled to open on Friday, 12th of the month. The company files its Red Herring Prospectus (RHP) with the Registrar of Companies on Tuesday, 9th of the month.
+
+The Question:
+Did Zenith Ltd. comply with the timeline requirements for filing the Red Herring Prospectus under Section 32 of the Companies Act, 2013? Explain your answer.
+ASSISTANT: Yes. A Red Herring Prospectus must be filed with the Registrar at least three days before the opening of the subscription list and the offer. Zenith filed the RHP on Tuesday, 9th, and the offer opens on Friday, 12th—exactly three days later—so the filing meets the statutory timeline.
+
+========== QUERY ANALYSIS ==========
+{'request_type': 'new_question', 'format': None, 'point_count': None, 'word_count': None, 'format_instruction': '', 'legal_domain': 'Corporate and Other Laws', 'section': '32', 'topic': 'Red Herring Prospectus subscription list', 'entities': ['Apex Ltd.'], 'keywords': ['Red Herring Prospectus', 'RHP', 'Registrar of Companies', 'subscription list', 'public offer', 'filing timeline', 'Section 32', 'filing'], 'jurisdiction': 'India', 'intent': 'application', 'is_scenario': True, 'scenario_facts': ['Apex Ltd. plans to open its subscription list and public offer on the 20th of the month.', 'The company files its Red Herring Prospectus with the Registrar of Companies on the 18th of the month.'], 'legal_issue': 'Whether the Red Herring Prospectus was filed with the Registrar within the required period before the opening of the subscription list and public offer as per Section 32 of the Companies Act, 2013.', 'legal_retrieval_query': 'Red Herring Prospectus filing with Registrar minimum period before opening of subscription list and public offer', 'expanded_query': 'The Facts: Apex Ltd. plans to open its subscription list and public offer on the 20th of the month. However, the company files its Red Herring Prospectus with the Registrar of Companies on the 18th of the month. The Question: Has Apex Ltd. met the filing timeline prescribed under Section 32 of the Companies Act, 2013? Explain your answer.'}
+
+========== EXPANDED QUERY ==========
+The Facts: Apex Ltd. plans to open its subscription list and public offer on the 20th of the month. However, the company files its Red Herring Prospectus with the Registrar of Companies on the 18th of the month. The Question: Has Apex Ltd. met the filing timeline prescribed under Section 32 of the Companies Act, 2013? Explain your answer.
